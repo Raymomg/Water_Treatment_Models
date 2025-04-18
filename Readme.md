@@ -1,4 +1,6 @@
 README for Water Treatment Models
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raymomg/Water_Treatment_Models/HEAD)
 =================================
 
 Tools in this repository:
